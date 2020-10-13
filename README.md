@@ -17,4 +17,8 @@ lab4:
 ![image](https://user-images.githubusercontent.com/37868833/95167539-7a829380-07cd-11eb-8583-a54e43bf2494.png)
 ![image](https://user-images.githubusercontent.com/37868833/95167542-7ce4ed80-07cd-11eb-9a71-c5ea0b4414e0.png)
 ---
+13th Oct 2020
+lab5:
 
+![image](https://user-images.githubusercontent.com/37868833/95824990-d5783580-0d4d-11eb-982c-64b1f7acada9.png)
+---
