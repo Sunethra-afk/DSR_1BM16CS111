@@ -1,0 +1,17 @@
+#lab6
+data <- data.frame("A"=(15:19), "B"=c(59,63,74,12,25), "C"=(27:31))
+data
+#mean(data$A)
+#median(data$A)
+#sd(data$A)
+#var(data$A)
+#IQR(data$A)
+#min(data$A)
+#max(data$A)
+lapply(data[,1:3],mean)
+lapply(data[,1:3],median)
+lapply(data[,1:3],sd)
+lapply(data[,1:3],var)
+lapply(data[,1:3],IQR)
+lapply(data[,1:3],min)
+lapply(data[,1:3],max)
