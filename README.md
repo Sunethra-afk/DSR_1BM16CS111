@@ -27,6 +27,7 @@ lab6:
 
 ![image](https://user-images.githubusercontent.com/37868833/95826468-f8a3e480-0d4f-11eb-8908-273ad64a2bb4.png)
 ![image](https://user-images.githubusercontent.com/37868833/95826473-f9d51180-0d4f-11eb-939a-e97965c6f7c2.png)
+
 ![image](https://user-images.githubusercontent.com/37868833/95826476-fb063e80-0d4f-11eb-86cb-2506f136b496.png)
 ---
 27th Oct 2020
