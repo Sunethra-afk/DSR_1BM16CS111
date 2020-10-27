@@ -37,3 +37,8 @@ lab7:
 ![image](https://user-images.githubusercontent.com/37868833/97264380-dbd8d800-184a-11eb-9e61-1518bbf363fe.png)
 ![image](https://user-images.githubusercontent.com/37868833/97264501-180c3880-184b-11eb-82f7-362a3125d710.png)
 ---
+lab8:
+
+![image](https://user-images.githubusercontent.com/37868833/97266027-bdc0a700-184d-11eb-8df9-602abb76860e.png)
+![image](https://user-images.githubusercontent.com/37868833/97266050-c87b3c00-184d-11eb-898c-782715923939.png)
+---
