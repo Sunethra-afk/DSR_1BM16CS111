@@ -34,5 +34,5 @@ lab6:
 lab7:
 
 ![image](https://user-images.githubusercontent.com/37868833/97264380-dbd8d800-184a-11eb-9e61-1518bbf363fe.png)
-![image](https://user-images.githubusercontent.com/37868833/97264383-dc716e80-184a-11eb-979c-f2da443d212f.png)
+![image](https://user-images.githubusercontent.com/37868833/97264501-180c3880-184b-11eb-82f7-362a3125d710.png)
 ---
