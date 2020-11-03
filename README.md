@@ -49,3 +49,9 @@ lab9:
 ![image](https://user-images.githubusercontent.com/37868833/97954670-2bc71a00-1dca-11eb-942a-108648e80b8e.png)
 ![image](https://user-images.githubusercontent.com/37868833/97955648-adb84280-1dcc-11eb-800a-b472bceafd80.png)
 ---
+lab10:
+
+![image](https://user-images.githubusercontent.com/37868833/97956353-6f238780-1dce-11eb-936e-4298e9652f6a.png)
+![image](https://user-images.githubusercontent.com/37868833/97956357-70ed4b00-1dce-11eb-8011-e7bbb0edf4a1.png)
+![image](https://user-images.githubusercontent.com/37868833/97956360-72b70e80-1dce-11eb-86ee-1a04448ce070.png)
+---
