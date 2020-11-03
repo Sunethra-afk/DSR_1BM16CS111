@@ -42,3 +42,10 @@ lab8:
 ![image](https://user-images.githubusercontent.com/37868833/97266027-bdc0a700-184d-11eb-8df9-602abb76860e.png)
 ![image](https://user-images.githubusercontent.com/37868833/97266050-c87b3c00-184d-11eb-898c-782715923939.png)
 ---
+3rd Nov 2020
+---
+lab9:
+
+![image](https://user-images.githubusercontent.com/37868833/97954670-2bc71a00-1dca-11eb-942a-108648e80b8e.png)
+![image](https://user-images.githubusercontent.com/37868833/97954686-38e40900-1dca-11eb-8541-5c3a61191cb9.png)
+---
