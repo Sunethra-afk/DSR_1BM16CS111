@@ -47,5 +47,5 @@ lab8:
 lab9:
 
 ![image](https://user-images.githubusercontent.com/37868833/97954670-2bc71a00-1dca-11eb-942a-108648e80b8e.png)
-![image](https://user-images.githubusercontent.com/37868833/97954686-38e40900-1dca-11eb-8541-5c3a61191cb9.png)
+![image](https://user-images.githubusercontent.com/37868833/97955648-adb84280-1dcc-11eb-800a-b472bceafd80.png)
 ---
