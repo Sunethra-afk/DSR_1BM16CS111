@@ -55,3 +55,15 @@ lab10:
 ![image](https://user-images.githubusercontent.com/37868833/97956357-70ed4b00-1dce-11eb-8011-e7bbb0edf4a1.png)
 ![image](https://user-images.githubusercontent.com/37868833/97956360-72b70e80-1dce-11eb-86ee-1a04448ce070.png)
 ---
+10th Nov 2020
+---
+lab11:
+
+![image](https://user-images.githubusercontent.com/37868833/98636207-67bf2980-234c-11eb-9b42-e24eeac1cbaa.png)
+![image](https://user-images.githubusercontent.com/37868833/98636213-6a218380-234c-11eb-9ebc-4c5bfee27df3.png)
+![image](https://user-images.githubusercontent.com/37868833/98636217-6d1c7400-234c-11eb-98f5-91117c313210.png)
+![image](https://user-images.githubusercontent.com/37868833/98636226-70affb00-234c-11eb-8fee-314cf6812117.png)
+![image](https://user-images.githubusercontent.com/37868833/98636232-74dc1880-234c-11eb-9f16-a1894c0a553a.png)
+![image](https://user-images.githubusercontent.com/37868833/98636234-76a5dc00-234c-11eb-817f-4c1091d76a6d.png)
+![image](https://user-images.githubusercontent.com/37868833/98636239-79083600-234c-11eb-8155-02de32c13600.png)
+---
