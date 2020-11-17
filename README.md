@@ -69,3 +69,11 @@ lab11:
 
 ![image](https://user-images.githubusercontent.com/37868833/98636239-79083600-234c-11eb-8155-02de32c13600.png)
 ---
+17th Nov 2020
+---
+lab12:
+
+![image](https://user-images.githubusercontent.com/37868833/99354443-74073180-28cc-11eb-9958-90136bf5c1f9.png)
+![image](https://user-images.githubusercontent.com/37868833/99354447-75d0f500-28cc-11eb-8502-7a72a09f27c3.png)
+![image](https://user-images.githubusercontent.com/37868833/99354450-77022200-28cc-11eb-8cf0-8e22a9d72f3a.png)
+---
